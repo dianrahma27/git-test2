@@ -8,5 +8,6 @@
 </head>
 <body>
     <h2>Ayo Semangat Belajar</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quo a mollitia facilis, rerum deserunt, quidem laudantium libero facere illum corrupti. Facilis ducimus provident, facere velit vero dicta quae ullam.</p>
 </body>
 </html>
